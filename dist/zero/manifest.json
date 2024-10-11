@@ -1,8 +1,8 @@
 {
-  "title": "Zero (empty theme)",
-  "txp-type": "textpattern-theme",
-  "description": "The empty theme shipped with Textpattern CMS 4.9.",
-  "author": "Team Textpattern",
-  "author_uri": "https://github.com/textpattern/textpattern-zero-theme",
-  "version": "4.9.0-dev"
+    "title": "Zero (empty theme)",
+    "version": "4.8.8",
+    "description": "The empty theme shipped with Textpattern CMS.",
+    "author": "Team Textpattern",
+    "author_uri": "https://github.com/textpattern/textpattern",
+    "txp-type": "textpattern-theme"
 }
