@@ -2,11 +2,11 @@
 
 [![GitHub Sponsors](https://img.shields.io/github/sponsors/textpattern)](https://github.com/sponsors/textpattern)
 
-This project is the source for the empty theme that ships as standard with [Textpattern CMS](https://textpattern.com/). It is intended as a starting point for theme authors.
+This repository is for the empty theme that ships with [Textpattern CMS](https://textpattern.com/). It is intended as a starting point for theme authors.
 
 ## Features
 
-The "Zero" theme provides a minimal theme scaffold to build on.
+The "Zero" theme provides a minimal theme scaffold on which to build.
 
 ## Installation
 
