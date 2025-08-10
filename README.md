@@ -15,5 +15,3 @@ The "Zero" theme provides a minimal theme scaffold on which to build.
 ## License
 
 Licensed under the [GPLv2 license](https://github.com/textpattern/textpattern-default-theme/blob/master/LICENSE).
-
-Some demo site content is licensed under Creative Commons BY-NC 3.0 (audio: "Moonlight Reprise" from "Irsen's Tale" by Kai Engel) and BY 3.0 (video: "Big Buck Bunny").
